@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tigran25
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Tigran Avetisyan
+- 👀 I’m interested in software engineering, web development, blockchain
+- 🌱 I’m currently learning ECommerce, DApp, NFT, Backend
+- 💞️ I’m looking to collaborate on high-tech community
+- 📫 How to reach me. email: tigranvetisyan@gmail.com, skype: live:.cid.604bd8120da371cd
 
 <!---
 tigran25/tigran25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

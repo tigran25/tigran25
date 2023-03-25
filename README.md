@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tigran Avetisyan
 - 👀 I’m interested in software engineering, web development, blockchain
-- 🌱 I’m currently learning ECommerce, DApp, NFT, Backend
+- 🌱 I’m currently learning ECommerce, DApp, NFT, Backend on Ruby on Rails
 - 💞️ I’m looking to collaborate on high-tech community
 - 📫 How to reach me. email: tigranvetisyan@gmail.com, skype: live:.cid.604bd8120da371cd
 
